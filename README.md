@@ -1,4 +1,4 @@
-Absolutely! Based on your project stack (**FastAPI + Docker + Ollama + OpenAI + Postgres + Qdrant + RAG system**), here’s a **professional README template** you can use and adapt for GitHub:
+Absolutely! Based on project stack (**FastAPI + Docker + Ollama + OpenAI + Postgres + Qdrant + RAG system**), 
 
 ---
 
